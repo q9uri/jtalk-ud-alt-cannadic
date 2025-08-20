@@ -9,7 +9,7 @@ Thanks to the alt-cannadic team.
 GPL-2.0
 
 ```
-head -n 10 alt-cannadic-110208/COPYING
+alt-cannadic-110208/COPYING
 
 		    GNU GENERAL PUBLIC LICENSE
 		       Version 2, June 1991
